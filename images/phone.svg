@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="20" viewBox="0 0 14 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-opacity: 0.9;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1365" y="2569" width="14" height="20" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="phone.svg" class="cls-1" d="M1366.27,2569h11.46a1.261,1.261,0,0,1,1.27,1.25v17.5a1.261,1.261,0,0,1-1.27,1.25h-11.46a1.261,1.261,0,0,1-1.27-1.25v-17.5A1.261,1.261,0,0,1,1366.27,2569Zm0,1.25h11.46v15h-11.46v-15Zm5.09,17.5v-1.25h1.28v1.25h-1.28Z" transform="translate(-1365 -2569)"/>
+</svg>
